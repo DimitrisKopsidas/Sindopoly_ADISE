@@ -5,11 +5,6 @@ The API was a solo project of Dimitris Kopsidas.
 Although some effort was taken to create a GUI in HTML using JQuery,AJAX and CSS it was too much for a solo project to deliver on time
 
 
-API URL
-=================
-https://users.iee.ihu.gr/~it175008/ADISE22_Sindopoly/api/main.php
-
-
 API Description
 =================
 Methods:
