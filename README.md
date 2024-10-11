@@ -21,7 +21,7 @@ To join in an existing game. Requires username and name of the game
 POST /joingame/
 ```
 
-To move on the board and buy properties. Payment to the bank or to the other player is dont automatically
+To move on the board and buy properties. Payment to the bank or to the other player is done automatically
 ```
 POST /rolldice/
 ```
